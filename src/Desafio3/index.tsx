@@ -12,15 +12,13 @@ export const Desafio3 = () => {
 
   const quantidade = list.length;
   return (
-    <>
-      <div>
-        <span> quantidade: {quantidade}</span>
-        <ul>
-          {list.map((item) => (
-            <li key={item}>item: {item}</li>
-          ))}
-        </ul>
-      </div>
-    </>
+    <div>
+      <span> quantidade: {quantidade}</span>
+      <ul>
+        {list.map((item) => (
+          <li key={item}>item: {item}</li>
+        ))}
+      </ul>
+    </div>
   );
 };
