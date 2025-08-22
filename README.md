@@ -1,7 +1,5 @@
 # Desafio técnico Full Stack
 
-## Desafios Frontend:
-
 ## Rodando Aplicação
 
 com yarn:
