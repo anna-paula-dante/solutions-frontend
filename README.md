@@ -1,5 +1,7 @@
 # Desafio técnico Full Stack
 
+Corrigir problemas nos arquivos fornecidos conforme os requisitos especificados em cada desafio de frontend.
+
 ## Rodando Aplicação
 
 com yarn:
